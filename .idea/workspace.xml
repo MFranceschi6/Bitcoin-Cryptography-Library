@@ -6,48 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149b0ae0-a365-4059-ae3c-759b9143f71f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Base58Check.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Base58Check.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Base58CheckTest.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/CurvePoint.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/CurvePoint.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/CurvePointTest.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Ecdsa.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Ecdsa.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/EcdsaTest.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/FieldInt.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/FieldInt.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/FieldIntTest.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Ripemd160.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Ripemd160.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Ripemd160Test.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Sha256.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Sha256.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Sha256Hash.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Sha256Hash.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Sha256HashTest.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Sha256Test.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Sha512.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Sha512.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Sha512Test.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/TestHelper.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Uint256.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Uint256.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Uint256Test.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Utils.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Utils.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/ecdsa-op-count.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/x8664/AsmX8664.hpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/x8664/AsmX8664.s" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/x8664/FieldInt.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/x8664/FieldIntTest.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/x8664/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/x8664/Uint256.cpp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="149b0ae0-a365-4059-ae3c-759b9143f71f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -264,11 +223,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510847126618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added maven support">
+      <created>1510848238410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1510848238410</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1705000" />
+    <option name="totallyTimeSpent" value="1748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -324,6 +290,24 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
