@@ -25,13 +25,10 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Bitcoin-Cryptography-Library/io/nayuki/bitcoin/crypto/Sha512.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Bitcoin-Cryptography-Library/io/nayuki/bitcoin/crypto/Sha512Test.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Bitcoin-Cryptography-Library/io/nayuki/bitcoin/crypto/Utils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Bitcoin-Cryptography-Library.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Bitcoin_Cryptography_Library_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Base58Check.cpp" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Base58Check.hpp" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/Base58CheckTest.cpp" afterPath="" />
@@ -71,6 +68,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/x8664/FieldIntTest.cpp" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/x8664/Makefile" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/x8664/Uint256.cpp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -280,12 +278,20 @@
       <updated>1510678971805</updated>
       <workItem from="1510678973650" duration="749000" />
       <workItem from="1510830478293" duration="623000" />
-      <workItem from="1510847034868" duration="31000" />
+      <workItem from="1510847034868" duration="258000" />
     </task>
+    <task id="LOCAL-00001" summary="Added maven support">
+      <created>1510847126618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510847126618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1403000" />
+    <option name="totallyTimeSpent" value="1630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -324,6 +330,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added maven support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added maven support" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

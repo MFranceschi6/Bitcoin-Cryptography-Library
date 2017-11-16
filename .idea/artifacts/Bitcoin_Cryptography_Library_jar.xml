@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Bitcoin-Cryptography-Library:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bitcoin_Cryptography_Library_jar</output-path>
+    <root id="archive" name="Bitcoin-Cryptography-Library.jar">
+      <element id="module-output" name="Bitcoin-Cryptography-Library" />
+    </root>
+  </artifact>
+</component>
