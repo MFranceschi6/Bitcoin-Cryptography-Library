@@ -107,7 +107,14 @@ public final class Sha256Hash implements Comparable<Sha256Hash> {
 	public int hashCode() {
 		return (hash[0] & 0xFF) | (hash[1] & 0xFF) << 8 | (hash[2] & 0xFF) << 16 | hash[3] << 24;
 	}
-	
+
+    /**
+     * Returns the checksum of this object as an byte []. Constant-time with respect to this hash value.
+     * @return the checksum of this object as an byte []
+     */
+	public byte [] getChecksum() {
+		return new byte [] {hash[0], hash[1], hash[2], hash[3]};
+	}
 	
 	/**
 	 * Compares whether this hash is less than, equal to, or greater than the specified hash object. Not constant-time.

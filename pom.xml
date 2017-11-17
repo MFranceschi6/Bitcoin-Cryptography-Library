@@ -6,7 +6,7 @@
 
     <groupId>io.nayuki.bitcoin.crypto</groupId>
     <artifactId>Bitcoin-Cryptography-Library</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <properties>
